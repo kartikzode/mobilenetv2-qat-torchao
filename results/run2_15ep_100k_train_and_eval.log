@@ -1,0 +1,99 @@
+02:03:36 epoch 0 [0/391] loss 1.4545 train top-1 67.97 | 9 img/s
+02:04:43 epoch 0 [100/391] loss 1.3586 train top-1 68.10 | 267 img/s
+02:06:03 epoch 0 [200/391] loss 1.3368 train top-1 68.42 | 291 img/s
+02:07:10 epoch 0 [300/391] loss 1.3297 train top-1 68.47 | 317 img/s
+02:08:17 epoch 0 done | loss 1.3258 | lr 0.0001 | 5.2 min
+02:08:20 epoch 1 [0/391] loss 1.2196 train top-1 71.88 | 86 img/s
+02:08:40 epoch 1 [100/391] loss 1.3089 train top-1 68.97 | 1147 img/s
+02:08:59 epoch 1 [200/391] loss 1.3013 train top-1 69.01 | 1248 img/s
+02:09:17 epoch 1 [300/391] loss 1.2975 train top-1 69.15 | 1286 img/s
+02:09:34 epoch 1 done | loss 1.2972 | lr 0.0001 | 6.5 min
+02:09:36 epoch 2 [0/391] loss 1.2476 train top-1 71.48 | 133 img/s
+02:09:56 epoch 2 [100/391] loss 1.3029 train top-1 68.84 | 1183 img/s
+02:10:15 epoch 2 [200/391] loss 1.2952 train top-1 69.14 | 1268 img/s
+02:10:33 epoch 2 [300/391] loss 1.2937 train top-1 69.16 | 1299 img/s
+02:10:50 epoch 2 done | loss 1.2903 | lr 0.0001 | 7.7 min
+02:10:54 epoch 3 [0/391] loss 1.1699 train top-1 71.48 | 73 img/s
+02:11:12 epoch 3 [100/391] loss 1.2830 train top-1 69.28 | 1164 img/s
+02:11:31 epoch 3 [200/391] loss 1.2769 train top-1 69.45 | 1257 img/s
+02:11:50 epoch 3 [300/391] loss 1.2823 train top-1 69.30 | 1291 img/s
+02:12:07   BatchNorm stats frozen after epoch 3
+02:12:07 epoch 3 done | loss 1.2850 | lr 0.0001 | 9.0 min
+02:12:11 epoch 4 [0/391] loss 1.3044 train top-1 68.36 | 74 img/s
+02:12:29 epoch 4 [100/391] loss 1.2570 train top-1 70.00 | 1172 img/s
+02:12:48 epoch 4 [200/391] loss 1.2580 train top-1 69.76 | 1265 img/s
+02:13:07 epoch 4 [300/391] loss 1.2531 train top-1 69.97 | 1299 img/s
+02:13:23   observers frozen after epoch 4
+02:13:23 epoch 4 done | loss 1.2513 | lr 0.0001 | 10.3 min
+02:13:26 epoch 5 [0/391] loss 1.2270 train top-1 71.48 | 91 img/s
+02:13:45 epoch 5 [100/391] loss 1.2213 train top-1 70.76 | 1184 img/s
+02:14:04 epoch 5 [200/391] loss 1.2116 train top-1 70.99 | 1271 img/s
+02:14:22 epoch 5 [300/391] loss 1.2148 train top-1 70.93 | 1302 img/s
+02:14:39 epoch 5 done | loss 1.2178 | lr 0.0001 | 11.5 min
+02:14:45 epoch 6 [0/391] loss 1.2280 train top-1 69.14 | 41 img/s
+02:15:05 epoch 6 [100/391] loss 1.2308 train top-1 70.45 | 1012 img/s
+02:15:23 epoch 6 [200/391] loss 1.2157 train top-1 71.00 | 1165 img/s
+02:15:42 epoch 6 [300/391] loss 1.2145 train top-1 70.98 | 1226 img/s
+02:15:59 epoch 6 done | loss 1.2127 | lr 0.0001 | 12.9 min
+02:16:09 epoch 7 [0/391] loss 1.3303 train top-1 66.80 | 25 img/s
+02:16:28 epoch 7 [100/391] loss 1.2071 train top-1 70.96 | 883 img/s
+02:16:47 epoch 7 [200/391] loss 1.2031 train top-1 71.09 | 1073 img/s
+02:17:05 epoch 7 [300/391] loss 1.2082 train top-1 71.05 | 1158 img/s
+02:17:22 epoch 7 done | loss 1.2052 | lr 0.0001 | 14.2 min
+02:17:25 epoch 8 [0/391] loss 1.3163 train top-1 69.14 | 87 img/s
+02:17:43 epoch 8 [100/391] loss 1.1851 train top-1 71.28 | 1199 img/s
+02:18:02 epoch 8 [200/391] loss 1.1984 train top-1 70.92 | 1282 img/s
+02:18:20 epoch 8 [300/391] loss 1.1935 train top-1 71.07 | 1312 img/s
+02:18:37 epoch 8 done | loss 1.1933 | lr 0.0001 | 15.5 min
+02:18:40 epoch 9 [0/391] loss 1.3116 train top-1 69.53 | 92 img/s
+02:19:00 epoch 9 [100/391] loss 1.1849 train top-1 71.46 | 1137 img/s
+02:19:18 epoch 9 [200/391] loss 1.1859 train top-1 71.33 | 1245 img/s
+02:19:37 epoch 9 [300/391] loss 1.1885 train top-1 71.19 | 1286 img/s
+02:19:54 epoch 9 done | loss 1.1883 | lr 0.0001 | 16.8 min
+02:19:57 epoch 10 [0/391] loss 1.1447 train top-1 70.70 | 85 img/s
+02:20:16 epoch 10 [100/391] loss 1.1902 train top-1 71.40 | 1184 img/s
+02:20:34 epoch 10 [200/391] loss 1.1888 train top-1 71.30 | 1273 img/s
+02:20:53 epoch 10 [300/391] loss 1.1857 train top-1 71.44 | 1305 img/s
+02:21:09 epoch 10 done | loss 1.1840 | lr 0.0001 | 18.0 min
+02:21:13 epoch 11 [0/391] loss 1.0950 train top-1 77.34 | 69 img/s
+02:21:32 epoch 11 [100/391] loss 1.1930 train top-1 71.38 | 1156 img/s
+02:21:50 epoch 11 [200/391] loss 1.1919 train top-1 71.35 | 1255 img/s
+02:22:09 epoch 11 [300/391] loss 1.1957 train top-1 71.15 | 1292 img/s
+02:22:26 epoch 11 done | loss 1.1936 | lr 0.0001 | 19.3 min
+02:22:29 epoch 12 [0/391] loss 0.9408 train top-1 80.86 | 80 img/s
+02:22:48 epoch 12 [100/391] loss 1.1699 train top-1 71.78 | 1177 img/s
+02:23:06 epoch 12 [200/391] loss 1.1745 train top-1 71.71 | 1268 img/s
+02:23:25 epoch 12 [300/391] loss 1.1802 train top-1 71.53 | 1301 img/s
+02:23:42 epoch 12 done | loss 1.1789 | lr 0.0001 | 20.6 min
+02:23:44 epoch 13 [0/391] loss 1.2070 train top-1 69.92 | 99 img/s
+02:24:03 epoch 13 [100/391] loss 1.1680 train top-1 72.07 | 1218 img/s
+02:24:21 epoch 13 [200/391] loss 1.1721 train top-1 71.86 | 1291 img/s
+02:24:40 epoch 13 [300/391] loss 1.1718 train top-1 71.80 | 1317 img/s
+02:24:57 epoch 13 done | loss 1.1722 | lr 0.0001 | 21.8 min
+02:24:59 epoch 14 [0/391] loss 1.1596 train top-1 73.05 | 115 img/s
+02:25:18 epoch 14 [100/391] loss 1.1740 train top-1 71.59 | 1213 img/s
+02:25:37 epoch 14 [200/391] loss 1.1683 train top-1 71.78 | 1288 img/s
+02:25:55 epoch 14 [300/391] loss 1.1711 train top-1 71.72 | 1315 img/s
+02:26:12 epoch 14 done | loss 1.1746 | lr 0.0001 | 23.1 min
+02:26:12 converting to int8 on CPU
+02:26:24 saved trained QAT state to /vol/runs/run-20261117-020130/qat_state.pt
+02:26:58 lowering to ExecuTorch
+02:27:11   mobilenetv2_fp32.pte: 13.99 MB | delegated subgraphs: 1 | ops left outside XNNPACK: none
+02:27:25   mobilenetv2_int8.pte: 3.59 MB | delegated subgraphs: 1 | ops left outside XNNPACK: none
+02:27:25 evaluating on CPU
+02:27:40   128/20000 | top-1: 67.97 | 67.97 | 67.97 | 69.53
+02:31:13   6528/20000 | top-1: 71.97 | 69.47 | 71.97 | 68.93
+02:34:54   12928/20000 | top-1: 71.52 | 69.22 | 71.51 | 69.09
+02:38:27   19328/20000 | top-1: 71.66 | 69.31 | 71.65 | 69.31
+
+===========================================================================
+MobileNetV2 | QAT 15 epochs, batch 256, lr 0.0001, 23.1 min | CPU 64 cores, x86_64
+model                          size MB  top-1 (20000)  median ms  speedup
+float .pte (XNNPACK fp32)        13.99          71.66       3.36    1.00x
+QAT int8 .pte (XNNPACK int8)      3.59          69.31       2.91    1.15x
+float (PyTorch)                  14.26          71.65          -        -
+QAT int8, simulated (PyTorch)     3.61          69.32          -        -
+Float on all 50000 val images should be about 71.88 (torchvision's published figure); --max-val-images gives a random subset. Latency: batch 1,
+300 images, execute() only, on this machine's CPU. The PyTorch int8 row is the converted graph run in float (simulated); the .pte rows use real XNNPACK kernels.
+models saved in /vol/runs/run-20261117-020130
+===========================================================================
